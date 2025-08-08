@@ -1,4 +1,4 @@
-# u-0-to-u-1-userscript
+# u0 to u1 userscript
 this is a userscript that automatically redirects you from user0 to user1. 
 as an example, it takes you from 
 https://docs.google.com/presentation/u/**0**/
